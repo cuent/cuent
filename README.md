@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cuent
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning Geometry and Generative Models
-- 💞️ I’m looking to collaborate on Bayesian Inference or GNN
 - 📫 https://cuent.github.io/
 
 <!---
